@@ -1,4 +1,5 @@
-# RSS-Reader-Android
+# RSS-Reader-Android :
+is a newsreader application by categories that allows the user to archive some news to come back later . As it also allows to update the news .
 
 ##### keysWords :
 ￼NavigationDrawer, TabHost, ListFragment, ListView, ListActivity ,DocumentBuilder, XmlPullParser, KXmlParser, Volley, HttpClient
